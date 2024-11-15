@@ -39,7 +39,9 @@
 "类型详情": "",
 "年代详情": "",
 "地区详情": "",
+
 "演员详情": "#w4&&.breadcrumb-item,1&&Text",
+
 "简介详情": "meta,7&&content",
 
 "线路列表数组规则": "head&&meta,9&&[property]",
